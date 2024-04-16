@@ -8,12 +8,13 @@ VSCode >select typescript version: workspace
 
 ## TODO
 
-Base:
 - [x] Make it deploy (Vercel)
 - [x] Scaffold basic ui with mock data
 - [x] Set up a database (Vercel postgres)
 - [x] Attach database to ui
-- [ ] Add authentication (w/ Clerk)
+- [ ] Add authentication (w/ Clerk) (Skipped, use NextAuth next time)
+- [ ] "taint" (server-only)
+- [ ] Next Image component
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (parallel route)
@@ -21,6 +22,12 @@ Base:
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
 
+## Learning Points
+
+- App Router (underscore)
+- Async Components
+- Client and Server Components
+- File hosting (AWS S3 or uploadthing)
 
 ## What's next? How do I make an app with this?
 
