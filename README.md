@@ -1,8 +1,24 @@
 # App
 
-Learning create-t3-app and Next.js
+Learning create-t3-app and Next.js from Theo's 2024 tutorial
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+## TODO
+
+Base:
+- [x] Make it deploy (Vercel)
+- [x] Scaffold basic ui with mock data
+- [ ] Set up a database (Vercel postgres)
+- [ ] Attach database to ui
+- [ ] Add authentication (w/ Clerk)
+- [ ] Add image upload
+- [ ] Error management (w/ Sentry)
+- [ ] Routing/image page (parallel route)
+- [ ] Delete button (w/ Server Actions)
+- [ ] Analytics (posthog)
+- [ ] Ratelimiting (upstash)
+
 
 ## What's next? How do I make an app with this?
 
