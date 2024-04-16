@@ -4,13 +4,15 @@ Learning create-t3-app and Next.js from Theo's 2024 tutorial
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
+VSCode >select typescript version: workspace
+
 ## TODO
 
 Base:
 - [x] Make it deploy (Vercel)
 - [x] Scaffold basic ui with mock data
-- [ ] Set up a database (Vercel postgres)
-- [ ] Attach database to ui
+- [x] Set up a database (Vercel postgres)
+- [x] Attach database to ui
 - [ ] Add authentication (w/ Clerk)
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
